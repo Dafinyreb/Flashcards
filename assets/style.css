@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Gluten:wght@100..900&display=swap');
 
 :root {
-  --text-color: #F7DD7D;
-  --card-front-color: #4C8CE4;
+  --text-color: #F7F6F2;
+  --card-front-color: #D7E9F7;
   --card-back-color: #8A5F41;
 }
 
 body {
-  background: #F5E9D8;
+  background: #CFAB8D;
   font-family:  Impact;
 }
 
@@ -66,7 +66,7 @@ body {
 .cartao__conteudo__pergunta .cartao__conteudo__resposta {
   position: absolute;
   border-radius: 12px;
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 6px 12px rgba(163, 42, 42, 0.15);
   backface-visibility: hidden;
 }
 
